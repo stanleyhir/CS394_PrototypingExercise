@@ -13,7 +13,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p className="header">
           {' '}
-          🚀 Vite + React + Typescript + Vitest 🤘 & <br />
+          🚀 StanleyEdit + React + Typescript + Vitest 🤘 & <br />
           Eslint 🔥+ Prettier for Wildcats
         </p>
 
